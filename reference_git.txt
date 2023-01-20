@@ -1,0 +1,4 @@
+https://github.com/monwisn/djblogger
+https://blog.logrocket.com/htmx-the-newest-old-way-to-make-web-apps/   +++
+ https://django-htmx.readthedocs.io/en/latest/installation.html      -HTMX DOC
+

@@ -1,0 +1,10 @@
+
+# Environments
+.env
+djenv/
+db.sqlite3
+htmlcov/
+.coverage
+*.md
+__pycache__
+reference_git.txt/
